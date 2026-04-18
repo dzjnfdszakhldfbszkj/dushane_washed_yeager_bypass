@@ -1,4 +1,3 @@
-Clear-Host
 $modsFolder = Read-Host 'Enter your mods folder path'
 $modsFolder = $modsFolder.Trim('"')
 
